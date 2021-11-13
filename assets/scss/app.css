@@ -1,0 +1,95 @@
+.btn {
+	@apply inline-flex bg-white items-center px-4 py-3  border border-transparent rounded-full font-bold text-xs tracking-widest transition;
+}
+
+.btn-primary {
+	@apply bg-primary-500 text-white;
+}
+
+.btn-primary:hover {
+	@apply bg-primary-600;
+}
+
+.btn-primary:focus {
+	@apply bg-primary-700 outline-none ring-transparent;
+}
+
+3
+.btn-success {
+	@apply bg-green-500 text-white;
+}
+
+.btn-success:hover {
+	@apply bg-green-600;
+}
+
+.btn-success:focus {
+	@apply outline-none ring ring-green-300 border-green-700;
+}
+
+.btn-info {
+	@apply bg-blue-500 text-white;
+}
+
+.btn-info:hover {
+	@apply bg-blue-600;
+}
+
+.btn-info:focus {
+	@apply outline-none ring ring-blue-300 border-blue-700;
+}
+
+.btn-purple {
+	@apply bg-purple-500 text-white;
+}
+
+.btn-purple:hover {
+	@apply bg-purple-600;
+}
+
+.btn-purple:focus {
+	@apply outline-none ring ring-purple-300 border-purple-700;
+}
+
+.btn-danger {
+	@apply bg-red-500 text-white;
+}
+
+.btn-danger:hover {
+	@apply bg-red-600;
+}
+
+.btn-danger:focus {
+	@apply outline-none ring ring-red-300 border-red-700;
+}
+
+.btn-secondary {
+	@apply border-secondary-500 ;
+}
+
+.btn-secondary:hover {
+	@apply bg-secondary-400 text-white;
+}
+
+.btn-secondary:focus {
+	@apply outline-none ring ring-secondary-300 border-secondary-700;
+}
+
+.btn-light {
+	@apply bg-gray-200 text-gray-800 shadow-none;
+}
+
+.btn-light:hover {
+	@apply bg-gray-300;
+}
+
+.btn-light:focus {
+	@apply outline-none ring ring-gray-100 border-gray-400;
+}
+
+.badge {
+  @apply bg-primary-500 p-1  md:p-2 h-6 md:h-10  rounded-full text-white font-bold ;
+}
+
+
+/* @apply inline-flex items-center justify-center px-3 py-1 text-xs uppercase font-bold leading-none text-primary-500 rounded-full; */
