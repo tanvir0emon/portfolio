@@ -1,11 +1,13 @@
 <template>
 <div>
-   <hero-section></hero-section>
+  <hero-section></hero-section>
    <hero-card-section></hero-card-section>
    <intro-section></intro-section>
    <education-experiance-section></education-experiance-section>
    <my-work-experties></my-work-experties>
     <my-portfolio></my-portfolio>
+    <contact-me></contact-me>
+    <testimonial></testimonial>
 
 </div>
 </template>
