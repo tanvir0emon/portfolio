@@ -21,12 +21,14 @@
                               Name</p>
                               <p class="w-1/2 whitespace-nowrap"> <span class="mr-4">:</span>Tanvir Hossain</p>
                             </div>
+
                             <div class="flex my-2 ">
                               <p class="w-1/2 flex">
                                <Phone class="mr-2" />
                                 Phone</p>
-                              <p class=" flex"> <span class="mr-4">:</span>01879252861</p>
+                              <p class="w-1/2 whitespace-nowrap"> <span class="mr-4">:</span>01879252861</p>
                             </div>
+
                             <div class="flex ">
                               <p class="w-1/2 flex">
                                <Mail class="mr-2" />
