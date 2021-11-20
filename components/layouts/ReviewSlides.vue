@@ -16,13 +16,13 @@
                         </p>
 
                         <div class="flex justify-center">
-                          <img  class="h-20 w-20" :src="review.img" alt="">
+                            <img class="h-20 w-20" :src="review.img" alt="">
                         </div>
 
                         <div class="rating flex justify-center ">
                             <!-- rating component -->
 
-                            <star-rating :rating="5" :read-only="true" :star-size="15" :padding="5" :increment="0.5" :show-rating="false" active-color="#F59E0B" :star-points="[23,2, 14,17, 0,19, 10,34, 7,50, 23,43, 38,50, 36,34, 46,19, 31,17]" style="margin-top: -10px"></star-rating>
+                            <star-rating :rating="review.rating" :read-only="true" :star-size="15" :padding="5" :increment="0.5" :show-rating="false" active-color="#F59E0B" :star-points="[23,2, 14,17, 0,19, 10,34, 7,50, 23,43, 38,50, 36,34, 46,19, 31,17]" style="margin-top: -10px"></star-rating>
 
                         </div>
                     </div>
@@ -60,21 +60,26 @@ export default {
             },
 
             reviews: [
-
-               {
+                {
                     body: "Work ethic is a belief that work and diligence have a moral benefit and an inherent ability, virtue or value to strengthen character and individual abilities. It is a set of values centered on importance of work and manifested by determination or desire to work hard.",
                     name: "Tanvir Hasan",
                     img: `/images/hero/person.png`,
+                    rating: "5",
                 },
 
                 {
-
                     body: "Tanvir is very much professional and his communication with client is impressive. I Hope our work will be continued as long as possible ",
-                    name: "Emon",
+                    name: "Jon Makenzi",
                     img: `/images/hero/person.png`,
+                    rating: "4.5",
                 },
 
-
+                {
+                    body: " Very much professional and his communication with client is impressive. I Hope our work will be continued as long as possible. And i will recommend him with 5 star rating ",
+                    name: "Karim Abdullah",
+                    img: `/images/hero/person.png`,
+                    rating: "4.5",
+                },
             ],
         };
     },
@@ -87,10 +92,8 @@ export default {
     position: relative;
     bottom: -7px;
 
-
-.slick-dots li.slick-active button:before  {
-    color: red;
-}
-
+    .slick-dots li.slick-active button:before {
+        color: red;
+    }
 }
 </style>
