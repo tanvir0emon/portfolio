@@ -26,6 +26,16 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    {
+      src: "~/plugins/slick-slider",
+      ssr: false
+    },
+    {
+      src: "~/plugins/star-rating",
+      ssr: false
+    },
+
+
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components

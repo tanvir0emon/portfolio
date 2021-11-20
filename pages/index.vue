@@ -9,6 +9,7 @@
     <contact-me></contact-me>
     <testimonial></testimonial>
 
+
 </div>
 </template>
 
@@ -19,8 +20,10 @@ import IntroSection from '~/components/layouts/IntroSection.vue'
 import MyPortfolio from '~/components/layouts/MyPortfolio.vue'
 import MyWorkExperties from '~/components/layouts/MyWorkExperties.vue'
 import MyExperties from '~/components/layouts/MyWorkExperties.vue'
+import ReviewSlides from '~/components/layouts/ReviewSlides.vue'
 export default {
     components: { IntroSection, EducationExperianceSection, MyWorkExperties, MyPortfolio },}
 </script>
 
-HeroCardSection
+HeroCar,
+        ReviewSlidesdSection
