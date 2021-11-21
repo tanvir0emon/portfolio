@@ -13,14 +13,12 @@
                     <!-- links -->
                     <ul class="flex items-center  h-full">
                         <li class="nav-item">
-                            <nuxt-link to="/portfolio" class="nav-link">Portfolio</nuxt-link>
-                        </li>
-                        <li class="nav-item">
-                            <nuxt-link to="/about" class="nav-link">About</nuxt-link>
+                            <nuxt-link to="/" class="nav-link">Portfolio</nuxt-link>
                         </li>
                         <li class="nav-item">
                             <nuxt-link to="/contact" class="nav-link">Contact</nuxt-link>
                         </li>
+
                     </ul>
                     <div class="ml-8">
                         <button class="px-6 py-1 bg-secondary-200  text-sm text-white rounded-full ">Hire Me</button>
@@ -43,11 +41,9 @@
         <transition name="mobile-nav" mode="out-in" appear>
             <ul v-show="mobileNav" class="sidebar px-3 shadow-md" v-click-outside="hide">
                 <li class="nav-item">
-                    <nuxt-link to="/portfoio" class="nav-link">Portfoio</nuxt-link>
+                    <nuxt-link to="/" class="nav-link">Portfoio</nuxt-link>
                 </li>
-                <li class="nav-item">
-                    <nuxt-link to="/About" class="nav-link">about</nuxt-link>
-                </li>
+
                 <li class="nav-item">
                     <nuxt-link to="/contact" class="nav-link">Contact</nuxt-link>
                 </li>

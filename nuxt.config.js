@@ -42,7 +42,8 @@ export default {
   components: [
     "~/components",
     { path: '~/components/layouts', extensions: ['vue'] },
-    { path: '~/components/icons', extensions: ['vue'] }
+    { path: '~/components/icons', extensions: ['vue'] },
+    { path: '~/components/forms', extensions: ['vue'] }
   ],
 
 

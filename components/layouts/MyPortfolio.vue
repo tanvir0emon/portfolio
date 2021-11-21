@@ -1,5 +1,5 @@
 <template>
-    <div class=" mb-4 p-4" style="background: #FAFAFC">
+    <div class="py-10" style="background: #FAFAFC">
         <!-- Heading  -->
         <div class="mx-auto w-2/3 px-4 md:w-1/2 flex justify-center my-12">
             <div class=" text-center">
@@ -9,26 +9,10 @@
         </div>
 
         <div class="container">
-            <div class="grid md:grid-cols-2 lg:grid-cols-3  gap-6">
+            <div class="">
                 <div>
                     <ProtfolioItems />
                 </div>
-                <div>
-                    <ProtfolioItems />
-                </div>
-                <div>
-                    <ProtfolioItems />
-                </div>
-                <div>
-                    <ProtfolioItems />
-                </div>
-                <div>
-                    <ProtfolioItems />
-                </div>
-                <div>
-                    <ProtfolioItems />
-                </div>
-
             </div>
         </div>
     </div>
