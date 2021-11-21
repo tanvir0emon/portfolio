@@ -9,8 +9,8 @@
                 <div class="lg:w-2/3 w-full flex items-center">
                     <div class="">
                         <h1 class="text-2xl  md:text-3xl font-bold text-primary-500">Have A Project In your Mind ?</h1>
-                        <p class="text-gray-500 text-sm  my-2">Improve him belive opinion offered met and cheered forbade. Friendly as stronger speedily by recurred cheered forbader. This Improve him belive opinion offered met and cheered forbade. Friendly as stronger speedily by recurred cheered forbader</p>
-                        <button class="btn mt-2 md:mt-0 btn-primary"> Contact Me</button>
+                        <p class="text-gray-500 text-sm  my-2">My work experties may help your company, Please check my previous works in recent work section. I am available 24/7.</p>
+                         <nuxt-link to="/contact" class=" btn mt-2 md:mt-0 btn-primary">Contact Me</nuxt-link>
                     </div>
                 </div>
 

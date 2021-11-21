@@ -4,7 +4,11 @@
         <div class="mx-auto w-2/3 px-4 md:w-1/2 flex justify-center py-8">
             <div>
                 <h1 class="text-2xl text-center font-bold text-primary-500">My Education & Experiance</h1>
-                <p class="text-gray-500 text-xs my-2">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore quo soluta iusto aperiam voluptas delectus officia illo adipisci tenetur expedita facere, veritatis et quas debitis explicabo fuga ipsa ipsam quibusdam?</p>
+                <p class="text-gray-500 text-xs my-2">Though I have Telecommunication Engineering background , I loved to code.
+                    So i moved my focus to programming.
+                    Throughout the course of my career, I have honed my abilities in web
+                    development. I am an astute problem-solver capable of prioritizing and managing complex projects
+                    with proficiency. Right now I am full-stack devloper in 999 it solution. In my previous role, I was Samsung experience consultant in Samsung Bangladesh where t I have learned & exercised skills in communication, customer service.</p>
             </div>
         </div>
 

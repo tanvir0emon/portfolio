@@ -15,7 +15,7 @@
             <Design class="expertise-badge" style="margin-top:-45px" />
             <div class="mt-4">
               <p class="font-bold">Web Design</p>
-            <span class="text-xs mt-2">Lorem ipsum  sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit</span>
+            <span class="text-xs mt-2">Expert In web design using HTML, CSS(Bootstrap/Taliwind) framework with vue-nuxt/php-blade.</span>
             </div>
           </div>
 
@@ -23,7 +23,7 @@
             <Devlopment class="expertise-badge" style="margin-top:-45px" />
             <div class="mt-4">
              <p class="font-bold">Web Devlopement</p>
-            <span class="text-xs mt-2">Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit</span>
+            <span class="text-xs mt-2">I am Expert web development on the frontend using modern frameworks like VueJS/ php-Blade</span>
             </div>
           </div>
 

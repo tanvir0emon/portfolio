@@ -8,10 +8,10 @@
           <p class="text-secondary-500 text-xl">Hi, I am</p>
           <h1 class="text-4xl font-bold text-primary-500">Tanvir Hossain</h1>
           <h1 class="text-xl my-2 font-medium text-gray-800">Full Stack Developer</h1>
-          <p class="text-gray-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, laborum.</p>
+          <p class="text-gray-500">I am a professional full-stack web developer. I can design and develop any type of website, web-based application using PHP Laravel framework and Vue Js.</p>
           <div class="mt-4">
-            <button class="btn btn-primary" >Download CV</button>
-            <button class="btn ml-2 mt-2 md:mt-0 btn-secondary"> Contact Me</button>
+            <a target="_blank" href="/downloads/Tanvir Hossain.pdf" class="btn btn-primary" >Download CV</a>
+             <nuxt-link to="/contact" class=" btn ml-2 mt-2 md:mt-0 btn-secondary">Contact Me</nuxt-link>
           </div>
 
          </div>

@@ -12,18 +12,22 @@
                         </div>
                         <!-- footer-content -->
                         <div class="justify-center text-white w-full md:w-1/2">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit tempore aspernatur optio molestiae consectetur dolorum
+                           I am a professional full-stack web developer. I can design and develop any type of website, web-based application using PHP Laravel framework and Vue Js.
                         </div>
 
                         <!-- social icons -->
                         <div class="flex items-center justify-center mt-4">
-                            <a target="_blank" class="icon">
+
+                            <a target="_blank" href="https://www.linkedin.com/in/tanvir0emon" class="icon">
+                                <Linkedin class="h-5 w-5" />
+                            </a>
+                            <a target="_blank" href="https://www.facebook.com/tanvir0emon" class="icon">
                                 <Facebook class="h-5 w-5" />
                             </a>
-                            <a arget="_blank" class="icon ">
+                            <a arget="_blank" href="https://twitter.com/TanvirH49586431" class="icon ">
                                 <Twitter class="h-5 w-5" />
                             </a>
-                            <a target="_blank" class="icon">
+                            <a target="_blank" href="https://www.instagram.com/tanvir0emon/" class="icon">
                                 <Instagram class="h-5 w-5" />
                             </a>
 
@@ -42,7 +46,9 @@
 </template>
 
 <script>
-export default {};
+import Linkedin from '../icons/Linkedin.vue';
+export default {
+    components: { Linkedin },};
 </script>
 
 <style lang="scss" scoped>

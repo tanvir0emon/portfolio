@@ -21,7 +21,7 @@
 
                     </ul>
                     <div class="ml-8">
-                        <button class="px-6 py-1 bg-secondary-200  text-sm text-white rounded-full ">Hire Me</button>
+                        <nuxt-link to="/contact" class="px-6 py-1 bg-secondary-200  text-sm text-white rounded-full">Hire Me</nuxt-link>
                     </div>
 
                 </div>
