@@ -23,7 +23,7 @@
             <Devlopment class="expertise-badge" style="margin-top:-45px" />
             <div class="mt-4">
              <p class="font-bold">Web Devlopement</p>
-            <span class="text-xs mt-2">I am Expert web development on the frontend using modern frameworks like VueJS/ php-Blade</span>
+            <span class="text-xs mt-2">I am Expert web developer on the frontend using modern frameworks like VueJS/ php-Blade</span>
             </div>
           </div>
 
