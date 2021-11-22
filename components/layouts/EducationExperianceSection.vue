@@ -1,16 +1,22 @@
 <template>
     <div class="py-4">
         <!-- Heading  -->
-        <div class="mx-auto w-2/3 px-4 md:w-1/2 flex justify-center py-8">
+<div class="py-8">
+          <div class="mx-auto w-2/3 px-4 md:w-1/2 flex justify-center">
             <div>
-                <h1 class="text-2xl text-center font-bold text-primary-500">My Education & Experiance</h1>
-                <p class="text-gray-500 text-xs my-2">Though I have Telecommunication Engineering background , I loved to code.
+              <p class="text-secondary-500 text-center text-md">My Info</p>
+                <h1 class="text-2xl text-center font-bold text-primary-500">Education & Experiance</h1>
+            </div>
+        </div>
+
+        <div class="container my-2 ">
+             <p class="text-gray-500 text-xs ">Though I have Telecommunication Engineering background , I loved to code.
                     So i moved my focus to programming.
                     Throughout the course of my career, I have honed my abilities in web
                     development. I am an astute problem-solver capable of prioritizing and managing complex projects
-                    with proficiency. Right now I am full-stack devloper in 999 it solution. In my previous role, I was Samsung experience consultant in Samsung Bangladesh where t I have learned & exercised skills in communication, customer service.</p>
-            </div>
+                    with proficiency. Right now I am full-stack devloper in 999 it solution. In my previous role, I was Samsung experience consultant in Samsung Bangladesh where I have learned & exercised skills in communication, customer service.</p>
         </div>
+</div>
 
         <!-- content -->
         <div class="information w-full lg:flex">
@@ -82,7 +88,7 @@
 
                 <div class="flex justify-start">
                     <div class="card">
-                        <p class="text-gray-500">May 2019 - Oct 2020</p>
+                        <p class="text-gray-500">May 2019 - Oct 2019</p>
                         <div class="card-section">
                             <p class="font-bold">Global Brand Ltd</p>
                             <p class="mb-2 text-xs">Marketing Executive</p>
