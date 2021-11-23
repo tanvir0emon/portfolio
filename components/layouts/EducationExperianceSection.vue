@@ -5,16 +5,16 @@
           <div class="mx-auto w-2/3 px-4 md:w-1/2 flex justify-center">
             <div>
               <p class="text-secondary-500 text-center text-md">My Info</p>
-                <h1 class="text-2xl text-center font-bold text-primary-500">Education & Experiance</h1>
+                <h1 class="text-2xl text-center font-bold text-primary-500">Education & Experience</h1>
             </div>
         </div>
 
         <div class="container my-2 ">
-             <p class="text-gray-500 text-xs ">Though I have Telecommunication Engineering background , I loved to code.
+             <p class="text-gray-500 ">Though I have Telecommunication Engineering background , I loved to code.
                     So i moved my focus to programming.
                     Throughout the course of my career, I have honed my abilities in web
                     development. I am an astute problem-solver capable of prioritizing and managing complex projects
-                    with proficiency. Right now I am full-stack devloper in 999 it solution. In my previous role, I was Samsung experience consultant in Samsung Bangladesh where I have learned & exercised skills in communication, customer service.</p>
+                    with proficiency. Right now I am full-stack developer in 999 it solution. In my previous role, I was Samsung experience consultant in Samsung Bangladesh where I have learned & exercised skills in communication, customer service.</p>
         </div>
 </div>
 

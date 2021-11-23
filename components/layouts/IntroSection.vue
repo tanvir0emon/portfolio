@@ -2,7 +2,7 @@
     <!-- details -->
     <div class="" style="background: #FAFAFC">
         <div class="container ">
-            <div class="information w-full lg:flex py-16 px-8">
+            <div class="information w-full lg:flex pt-20 pb-4 px-8">
                 <!-- Image -->
                 <div class="lg:w-1/2 flex justify-end  ">
                     <img src="/images/hero/person 2.png" class="my-0 md:my-4 lg:my-6 h-80  mx-auto lg:mx-0 px-8" alt="">
@@ -12,7 +12,7 @@
                     <div>
                         <p class="text-secondary-500 text-md">My Intro</p>
                         <h1 class="text-3xl font-bold text-primary-500">About Me</h1>
-                        <p class="text-gray-500 text-xs mt-1">Seeking a challenging career opportunity in a reputed company where I can harness my education,technical skills and creative towards making significant contribution to the growth and development of the company and thereby develop myself.</p>
+                        <p class="text-gray-500 mt-1">Seeking a challenging career opportunity in a reputed company where I can harness my education,technical skills and creative towards making significant contribution to the growth and development of the company and thereby develop myself.</p>
                         <!-- Intro -->
                         <div class="mt-4 w-3/5 text-sm text-gray-500 ">
                             <div class="flex ">
