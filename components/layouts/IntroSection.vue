@@ -50,7 +50,7 @@
                                 </div>
                                 <div class="flex text-sm">
                                     <Travel class="mr-2 text-primary-500" />
-                                    <p class="flex items-center ">Tarave</p>
+                                    <p class="flex items-center ">Travel</p>
                                 </div>
                                 <div class="flex text-sm">
                                     <Movie class="mr-2 text-primary-500" />

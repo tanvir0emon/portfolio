@@ -11,7 +11,7 @@
      </div>
      <div class="ml-4">
       <span class="text-primary-500 font-bold">1 Year Job</span>
-      <span class="text-gray-400 text-sm block">Experiance</span>
+      <span class="text-gray-400 text-sm block">Experience</span>
      </div>
     </div>
 

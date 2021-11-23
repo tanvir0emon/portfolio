@@ -41,7 +41,7 @@
         <transition name="mobile-nav" mode="out-in" appear>
             <ul v-show="mobileNav" class="sidebar px-3 shadow-md" v-click-outside="hide">
                 <li class="nav-item">
-                    <nuxt-link to="/" class="nav-link">Portfoio</nuxt-link>
+                    <nuxt-link to="/" class="nav-link">Portfolio</nuxt-link>
                 </li>
 
                 <li class="nav-item">

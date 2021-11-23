@@ -4,7 +4,7 @@
         <div class="mx-auto w-2/3 px-4 md:w-1/2 flex justify-center my-12">
             <div class=" text-center">
                 <p class="text-secondary-500 text-md">Specialized In</p>
-                <h1 class="text-2xl font-bold text-primary-500">My Work Experties</h1>
+                <h1 class="text-2xl font-bold text-primary-500">My Work Expertise</h1>
             </div>
         </div>
 
@@ -15,14 +15,14 @@
             <Design class="expertise-badge" style="margin-top:-45px" />
             <div class="mt-4">
               <p class="font-bold">Web Design</p>
-            <span class="text-xs mt-2">Expert In web design using HTML, CSS(Bootstrap/Taliwind) framework with vue-nuxt/php-blade.</span>
+            <span class="text-xs mt-2">Expert In web design using HTML, CSS(Bootstrap/Tailwind) framework with vue-nuxt/php-blade.</span>
             </div>
           </div>
 
           <div class="p-4 shadow-md card mx-2  my-5 lg:my-0 border rounded-tr-3xl">
             <Devlopment class="expertise-badge" style="margin-top:-45px" />
             <div class="mt-4">
-             <p class="font-bold">Web Devlopement</p>
+             <p class="font-bold">Web Development</p>
             <span class="text-xs mt-2">I am Expert web developer on the frontend using modern frameworks like VueJS/ php-Blade</span>
             </div>
           </div>
