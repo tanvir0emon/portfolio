@@ -64,15 +64,15 @@
 }
 
 .btn-secondary {
-	@apply border-secondary-500 ;
+	@apply border-primary-500 ;
 }
 
 .btn-secondary:hover {
-	@apply bg-secondary-400 text-white;
+	@apply bg-primary-500 text-white;
 }
 
 .btn-secondary:focus {
-	@apply outline-none ring ring-secondary-300 border-secondary-700;
+	@apply outline-none ring ring-primary-300 border-primary-700;
 }
 
 .btn-light {

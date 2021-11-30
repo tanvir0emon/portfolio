@@ -3,7 +3,7 @@
         <!-- Heading  -->
         <div class="mx-auto w-1/2 px-4 md:w-1/2 flex justify-center my-4">
             <div class=" text-center">
-                <p class="text-secondary-500 text-md">Contact Me</p>
+                <p class="text-gray-600 text-md">Contact Me</p>
                 <h1 class="text-2xl font-bold text-primary-500">Get In Touch</h1>
             </div>
         </div>

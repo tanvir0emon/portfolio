@@ -6,7 +6,9 @@
 
                 <!-- image -->
                 <div class="bg-gray-100 flex justify-center item-center product-image relative">
-                    <img :src="project.img" class="h-full w-full" alt="product" style="object-fit: cover;">
+                    <div class="img">
+                      <img :src="project.img" class="h-full w-full" alt="product" style="object-fit: cover;">
+                    </div>
 
                     <!-- options on hover -->
                     <div class="product-options absolute flex items-center justify-center">
@@ -110,9 +112,11 @@ export default {
 
 .product:hover {
     .product-image {
-        @apply bg-gray-500;
-        opacity: 0.8;
+        .img{
+        @apply bg-black;
+        opacity: 1;
         transition: all 0.2s ease-in;
+        }
 
         .product-options {
             color: red;

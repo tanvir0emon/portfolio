@@ -3,7 +3,7 @@
         <!-- Heading  -->
         <div class="mx-auto w-2/3 px-4 md:w-1/2 flex justify-center my-12">
             <div class=" text-center">
-                <p class="text-secondary-500 text-md">Testimonial</p>
+                <p class="text-gray-600 text-md">Testimonial</p>
                 <h1 class="text-2xl font-bold text-primary-500">My Client Saying</h1>
             </div>
         </div>

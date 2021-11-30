@@ -4,7 +4,7 @@
         <div class="py-8">
             <div class="mx-auto w-2/3 px-4 md:w-1/2 flex justify-center">
                 <div>
-                    <p class="text-secondary-500 text-center text-md">My Info</p>
+                    <p class="text-gray-600 text-center text-md">My Info</p>
                     <h1 class="text-2xl text-center font-bold text-primary-500">Education & Experience</h1>
                 </div>
             </div>

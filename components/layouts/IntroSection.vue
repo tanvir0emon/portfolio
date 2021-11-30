@@ -10,7 +10,7 @@
                 <!-- Content -->
                 <div class="lg:w-1/2 mt-4 md:mt-8 flex items-center">
                     <div>
-                        <p class="text-secondary-500 text-md">My Intro</p>
+                        <p class="text-gray-600 text-md">My Intro</p>
                         <h1 class="text-3xl font-bold text-primary-500">About Me</h1>
                         <p class="text-gray-500 mt-1">Seeking a challenging career opportunity in a reputed company where I can harness my education,technical skills and creative towards making significant contribution to the growth and development of the company and thereby develop myself.</p>
                         <!-- Intro -->
