@@ -1,7 +1,7 @@
 <template>
-    <div class=" mb-4 p-4">
+    <div class=" mb-4 px-4 py-8">
         <!-- Heading  -->
-        <div class="mx-auto w-2/3 px-4 md:w-1/2 flex justify-center my-12">
+        <div class="mx-auto w-2/3 px-4 md:w-1/2 flex justify-center my-4">
             <div class=" text-center">
                 <p class="text-gray-600 text-md">Testimonial</p>
                 <h1 class="text-2xl font-bold text-primary-500">My Client Saying</h1>

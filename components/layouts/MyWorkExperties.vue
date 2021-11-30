@@ -1,5 +1,5 @@
 <template>
-    <div class="container mb-4 p-4">
+    <div class="container mb-12 p-4">
         <!-- Heading  -->
         <div class="mx-auto w-2/3 px-4 md:w-1/2 flex justify-center my-12">
             <div class=" text-center">

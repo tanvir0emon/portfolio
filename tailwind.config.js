@@ -13,6 +13,11 @@ module.exports = {
         width: "width",
         height: "height"
       },
+
+      fontSize: {
+        '2xs': '.5rem',
+    },
+
       colors: {
         primary: {
           "50": "#fabbbd",
