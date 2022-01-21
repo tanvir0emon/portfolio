@@ -67,8 +67,17 @@
                 </div>
 
                 <div class="flex justify-start">
+                <div class="card">
+                        <p class="text-gray-500">Jan 2022 - Continued</p>
+                        <div class="card-section">
+                            <p class="font-bold">IBSS-Pvt Ltd.</p>
+                            <p class="mb-2 text-xs">Fullstack Developer</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex justify-start">
                     <div class="card">
-                        <p class="text-gray-500">Jan 2021 - Continued</p>
+                        <p class="text-gray-500">Jan 2021 - Dec 2021</p>
                         <div class="card-section">
                             <p class="font-bold">999 It Solution</p>
                             <p class="mb-2 text-xs">Backend Developer</p>

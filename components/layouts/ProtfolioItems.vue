@@ -50,6 +50,12 @@ export default {
         return {
             projects: [
                 {
+                    title: "Ms Mollik Traders",
+                    subtitle: "ERP",
+                    img: `/images/projects/project 8.png`,
+                    url: "http://msmolliktraders.com/",
+                },
+                {
                     title: "Sabziwaly Website",
                     subtitle: "Ecommerce",
                     img: `/images/projects/project 1.png`,
@@ -70,7 +76,7 @@ export default {
                 },
 
                     {
-                    title: "Cphd Website",
+                    title: "CpHD Website",
                     subtitle: "Ecommerce",
                     img: `/images/projects/project 7.png`,
                      url: "https://cphd.net/",
