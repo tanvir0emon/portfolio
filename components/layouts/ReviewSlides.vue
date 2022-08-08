@@ -78,7 +78,7 @@ export default {
                     body: " Very much professional and his communication with client is impressive. I Hope our work will be continued as long as possible. And i will recommend him with 5 star rating ",
                     name: "Motalib Rahman",
                     img: `/images/hero/person.png`,
-                    rating: "4.5",
+                    rating: "5",
                 },
             ],
         };
