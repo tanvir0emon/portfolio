@@ -18,7 +18,7 @@
       <!-- Right Content -->
         </div>
         <div class="w-full lg:w-1/2">
-            <img src="/images/hero/person.png" class="my-0 md:my-4 lg:my-6 md:h-64 lg:h-full mx-auto lg:mx-0" alt="">
+            <img src="/images/hero/profile-1.png" class="my-0 md:my-4 lg:my-6 md:h-64 lg:h-full mx-auto lg:mx-0" alt="">
         </div>
       </div>
     </div>

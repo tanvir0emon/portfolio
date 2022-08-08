@@ -49,12 +49,20 @@ export default {
     data() {
         return {
             projects: [
+
+                {
+                    title: "Secure Web Vpn",
+                    subtitle: "Website",
+                    img: `/images/projects/securevpn.png`,
+                    url: "https://securewebvpn.net",
+                },
                 {
                     title: "Ms Mollik Traders",
                     subtitle: "ERP",
                     img: `/images/projects/project 8.png`,
                     url: "http://msmolliktraders.com/",
                 },
+
                 {
                     title: "Sabziwaly Website",
                     subtitle: "Ecommerce",

@@ -31,7 +31,7 @@
             <Database class="expertise-badge" style="margin-top:-45px" />
             <div class="mt-4">
               <p class="font-bold">SQL Database</p>
-            <span class="text-xs mt-2">Lorem ipsum dolor sit ametLorem ipsum dolor sit amet consectetur adipisicing elit</span>
+            <span class="text-xs mt-2">Expert in querying raw data &  managing data held in a relational database management system -MySQL(mariaDb, innodb)</span>
             </div>
           </div>
 
@@ -39,7 +39,7 @@
             <Fire class="expertise-badge" style="margin-top:-45px" />
             <div class="mt-4">
               <p class="font-bold">Php / Laravel</p>
-            <span class="text-xs mt-2">Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit</span>
+            <span class="text-xs mt-2">I am  professional specialized in developing web applications using Laravel Framework within PHP programming language.</span>
             </div>
           </div>
 </div>

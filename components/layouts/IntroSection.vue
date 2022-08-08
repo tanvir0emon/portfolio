@@ -5,7 +5,7 @@
             <div class="information w-full lg:flex pt-20 pb-4 px-8">
                 <!-- Image -->
                 <div class="lg:w-1/2 flex justify-end  ">
-                    <img src="/images/hero/person 2.png" class="my-0 md:my-4 lg:my-6 h-80  mx-auto lg:mx-0 px-8" alt="">
+                    <img src="/images/hero/profile-2.png" class="my-0 md:my-4 lg:my-6 h-80  mx-auto lg:mx-0 px-8" alt="">
                 </div>
                 <!-- Content -->
                 <div class="lg:w-1/2 mt-4 md:mt-8 flex items-center">
