@@ -24,7 +24,7 @@
                             <a target="_blank" href="https://www.facebook.com/tanvir0emon" class="icon">
                                 <Facebook class="h-5 w-5" />
                             </a>
-                            <a arget="_blank" href="https://twitter.com/TanvirH49586431" class="icon ">
+                            <a target="_blank" href="https://twitter.com/TanvirH49586431" class="icon ">
                                 <Twitter class="h-5 w-5" />
                             </a>
                             <a target="_blank" href="https://www.instagram.com/tanvir0emon/" class="icon">
