@@ -33,7 +33,7 @@
                         <p class="text-gray-500">Aug 2014 - May 2019</p>
                         <div class="card-section">
                             <p class="font-bold">Bsc In Engineering</p>
-                            <p class="mb-2 text-xs">Telecom Engineer</p>
+                            <p class="mb-2 text-xs">Telecom Engineering</p>
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                         <p class="text-gray-500">Jan 2022 - Continued</p>
                         <div class="card-section">
                             <p class="font-bold">IBSS-Pvt Ltd.</p>
-                            <p class="mb-2 text-xs">Fullstack Developer</p>
+                            <p class="mb-2 text-xs">Software Developer</p>
                         </div>
                     </div>
                 </div>
