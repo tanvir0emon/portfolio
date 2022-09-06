@@ -36,7 +36,7 @@
                     <!-- Footer Bottom -->
                     <div class="footer-bottom border-t">
                         <p class="text-center my-4 text-white">
-                            Tanvir © 2021
+                            Tanvir © {{new Date().getFullYear()}}
                         </p>
                     </div>
                 </div>
