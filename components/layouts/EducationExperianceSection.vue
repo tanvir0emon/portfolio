@@ -14,7 +14,7 @@
                     So i moved my focus to programming.
                     Throughout the course of my career, I have honed my abilities in web
                     development. I am an astute problem-solver capable of prioritizing and managing complex projects
-                    with proficiency. Right now I am full-stack developer in 999 it solution. In my previous role, I was Samsung experience consultant in Samsung Bangladesh where I have learned & exercised skills in communication, customer service.</p>
+                    with proficiency. Right now I am full-stack Software Developer in Integrated Business Systems And Solutions Pvt. Ltd(IBSS). In my previous role, I was Samsung experience consultant in Samsung Bangladesh where I have learned & exercised skills in communication, customer service.</p>
             </div>
         </div>
 
