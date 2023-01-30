@@ -5,7 +5,7 @@
                 <!-- logo -->
                 <div class="logo">
                     <nuxt-link to="/">
-                        <img class="h-12 w-12" src="/images/logo/Tanvir Logo.png" alt="">
+                        <img class="h-12 w-12" src="/images/logo/logo.png" alt="">
                     </nuxt-link>
                 </div>
 

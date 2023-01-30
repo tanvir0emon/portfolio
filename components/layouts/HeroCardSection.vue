@@ -10,7 +10,7 @@
        <Experience class="badge" />
      </div>
      <div class="ml-4">
-      <span class="text-primary-500 font-bold">2+ Year Job</span>
+      <span class="text-primary-500 font-bold">2.5+ Year Job</span>
       <span class="text-gray-400 text-sm block">Experience</span>
      </div>
     </div>
@@ -20,7 +20,7 @@
        <ProjectIcon class="badge" />
      </div>
      <div class="ml-4">
-        <span class="text-primary-500  font-bold">10+ Projects</span>
+        <span class="text-primary-500  font-bold">15+ Projects</span>
       <span class="text-gray-400 text-sm block">Completed</span>
      </div>
     </div>
