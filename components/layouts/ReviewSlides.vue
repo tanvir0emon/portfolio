@@ -64,20 +64,20 @@ export default {
                     body: " Very much professional and his communication with client is impressive. I Hope our work will be continued as long as possible. And i will recommend him with 5 star rating ",
                     name: "Motalib Rahman",
                     img: `/images/hero/person.png`,
-                    rating: "5",
+                    rating: 5,
                 },
                 {
                     body: " Tanvir is very much professional and his communication with client is impressive. I Hope our work will be continued as long as possible.",
                     name: "Nahid Hasan",
                     img: `/images/hero/person.png`,
-                    rating: "5",
+                    rating: 5,
                 },
 
                 {
                     body: " Work ethic is a belief that work and diligence have a moral benefit and an inherent ability, virtue or value to strengthen character and individual abilities. It is a set of values centered on importance of work and manifested by determination or desire to work hard.",
                     name: "Jon Makenzi",
                     img: `/images/hero/person.png`,
-                    rating: "4.5",
+                    rating: 4.5,
                 },
 
 

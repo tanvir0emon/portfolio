@@ -11,7 +11,7 @@
                             </nuxt-link>
                         </div>
                         <!-- footer-content -->
-                        <div class="justify-center text-white w-full md:w-1/2">
+                        <div class="justify-center text-justify text-white w-full md:w-1/2">
                            I am a professional full-stack web developer. I can design and develop any type of website, web-based application using PHP Laravel framework and Vue Js.
                         </div>
 
